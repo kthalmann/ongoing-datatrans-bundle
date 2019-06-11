@@ -1,5 +1,5 @@
 {
-  "name": "ongoing/datatrans-bundle",
+  "name": "kevinthalmann/ongoing-datatrans-bundle",
   "description": "Symfony2 bundle for providing access to Datatrans. This is an extension to the JMSCorePaymentBundle.",
   "type": "symfony-bundle",
   "keywords": [
@@ -23,7 +23,7 @@
   "require": {
     "php": "^5.5|^7.0",
     "jms/payment-core-bundle": "~1.0",
-    "w-vision/omnipay-datatrans": "dev-master",
+    "kevinthalmann/w-vision-omnipay-datatrans": "dev-master",
     "symfony/http-foundation": "^2.8 || ^3.0"
   },
   "require-dev": {
