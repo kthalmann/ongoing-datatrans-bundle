@@ -14,16 +14,10 @@
       "email": "frederik.trostorf@ongoing.ch"
     }
   ],
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "git@github.com:kthalmann/omnipay-datatrans.git"
-    }
-  ],
   "require": {
     "php": "^5.5|^7.0",
     "jms/payment-core-bundle": "~1.0",
-    "kevinthalmann/w-vision-omnipay-datatrans": "dev-master",
+    "academe/omnipay-datatrans": "^3.0",
     "symfony/http-foundation": "^2.8 || ^3.0"
   },
   "require-dev": {
