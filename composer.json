@@ -1,5 +1,5 @@
 {
-  "name": "kevinthalmann/ongoing-datatrans-bundle",
+  "name": "ongoing/datatrans-bundle",
   "description": "Symfony2 bundle for providing access to Datatrans. This is an extension to the JMSCorePaymentBundle.",
   "type": "symfony-bundle",
   "keywords": [
